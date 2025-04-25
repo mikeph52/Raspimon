@@ -1,5 +1,12 @@
 # Raspimon
 
+██████╗  █████╗ ███████╗██████╗ ██╗███╗   ███╗ ██████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██╔════╝██╔══██╗██║████╗ ████║██╔═══██╗████╗  ██║
+██████╔╝███████║███████╗██████╔╝██║██╔████╔██║██║   ██║██╔██╗ ██║
+██╔══██╗██╔══██║╚════██║██╔═══╝ ██║██║╚██╔╝██║██║   ██║██║╚██╗██║
+██║  ██║██║  ██║███████║██║     ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+
 Raspimon is a monitor program written in python 3.10 for Raspberry Pi 4.
 In order to use the program, type the code letter for the function you 
 want to use: example for a)temperature, type 'a'(without the apostrophes).
