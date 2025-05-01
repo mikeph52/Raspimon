@@ -14,26 +14,26 @@ All functions are listed bellow.
 
 Function list:
 --------------
-a)Temperature
-It monitors temperature. Simple as that.
+- Temperature:<br>
+   It monitors temperature. Simple as that.
 
-b)CPU load
+- CPU load:<br>
 It's self explanatory.
 
-c)Disk info
+- Disk info:
 
-d)Network info
+- Network info:<br>
 A simple 'ifcofig' command.
 
-e)Devices connected via SSH
+- Devices connected via SSH:<br>
 Displays all the devices connected to SSH host
 and the task are performing.
 
-f)GPIO status
+- GPIO status:<br>
 Displays the GPIO pins and the status.
 CURRENTLY DOESN'T WORK
 
-g)Raspberry Pi Config menu
+- Raspberry Pi Config menu:<br>
 Opens the raspberry pi configuration menu. Needs
 sudo superuser privileges.
 
